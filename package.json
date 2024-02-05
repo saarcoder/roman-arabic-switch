@@ -1,0 +1,23 @@
+{
+  "name": "roman-arabic-switch",
+  "version": "0.1.0",
+  "description": "## Description Switch back and forth from Roman to Hindu-Arabic numerals. Works for integers smaller than 4000.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saarcoder/roman-arabic-switch.git"
+  },
+  "keywords": [],
+  "author": "Alex Kimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saarcoder/roman-arabic-switch/issues"
+  },
+  "homepage": "https://github.com/saarcoder/roman-arabic-switch",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
